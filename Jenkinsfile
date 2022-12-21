@@ -21,12 +21,7 @@ pipeline {
             
             }
         }
-        stage('Build2') {
-            steps {
-                echo "hello"
-                }
-            
-            }
+      
         
      }
     
